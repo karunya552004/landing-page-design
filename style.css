@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+.head{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+}
+.head span{
+    color: gold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.container .col-4{
+    padding: 25px 10px;
+}
+.container .row{
+    padding:0px 80px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    box-sizing: border-box;
+}
+.row p{
+    font-weight:600;
+    color:white;
+    z-index: +1;
+    position: relative;
+    bottom: 50px;
+    font-size: 20px;
+}
+.carousel .inner{
+    text-align: center;
+    padding: 0px 260px;
+    z-index: +1;
+    position: relative;
+    bottom: 24rem;
+    right: 10rem;
+    padding-left: 500px;
+}
+.carousel p{
+    padding:0px 80px;
+}
+
+.container .col-4{
+    position: relative;
+    bottom: 11rem;
+    padding: 0px 10px;
+}
+p{
+    color: white;
+}
+.text{
+    color: white;
+}
